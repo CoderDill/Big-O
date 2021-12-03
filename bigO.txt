@@ -1,0 +1,37 @@
+Step One:
+
+O(n)
+O(n)
+O(1)
+O(n^3)
+O(n)
+O(n)
+O(n log n)
+O(2n)
+O(1)
+O(n^2)
+
+Step Two:
+
+O(n)
+O(n)
+O(1)
+O(n)
+O(n^2)
+O(n)
+
+Part 3:
+
+True
+True
+False
+O(n)
+O(n)
+O(n)
+O(n log n)
+O(n)
+O(1)
+O(n)
+O(1)
+O(n)
+O(n)
